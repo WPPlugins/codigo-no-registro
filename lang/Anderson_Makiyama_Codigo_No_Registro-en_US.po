@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Codigo no registro ingles\n"
+"POT-Creation-Date: 2014-05-20 10:12-0300\n"
+"PO-Revision-Date: 2014-05-20 11:02-0300\n"
+"Last-Translator: Anderson <andersonmaki@gmail.com>\n"
+"Language-Team: Anderson.Makiyama <andersonmaki@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: C:\\wamp\\www\\wp-content\\plugins\\codigo-no-registro\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: index.php:60 index.php:91 templates/options.php:4
+msgid "Configurações"
+msgstr "Settings"
+
+#: index.php:87 templates/help.php:7
+msgid "Ajuda"
+msgstr "Help"
+
+#: index.php:129
+msgid "Configurações salvas com sucesso!"
+msgstr "Settings updated successfully!"
+
+#: index.php:195
+msgid "Digite o Código da Imagem"
+msgstr "Enter the image code"
+
+#: index.php:254 index.php:260
+msgid "<strong>ERRO</strong>: Seu IP foi bloqueado. Tente novamente amanhã!"
+msgstr ""
+"<strong>ERROR</strong>: Your IP has been blocked. Try it again tomorrow!"
+
+#: index.php:264
+msgid ""
+"<strong>ERRO</strong>: O Código da imagem está Incorreto. Tente novamente!"
+msgstr "<strong>ERROR</strong>: Image code is incorrect. Try it again!"
+
+#: templates/help.php:11
+msgid "Para mais detalhes visite a página do plugin"
+msgstr "For more details visit plugin page"
+
+#: templates/help.php:25 templates/options.php:166
+msgid "Autor:"
+msgstr "Author:"
+
+#: templates/help.php:29 templates/options.php:170
+msgid "Email do Autor:"
+msgstr "Author Email:"
+
+#: templates/help.php:33 templates/options.php:174
+msgid "Visite a Página do Plugin:"
+msgstr "Visit Plugin Page:"
+
+#: templates/help.php:39 templates/options.php:180
+msgid "Visite a Página do Autor:"
+msgstr "Visit Author Page:"
+
+#: templates/options.php:16
+msgid "Configurações Globais"
+msgstr "Global Settings"
+
+#: templates/options.php:20
+msgid "Quantidade de Caracteres"
+msgstr "Number of Characters "
+
+#: templates/options.php:31
+msgid "Quantas tentativas antes de Bloquear o IP?"
+msgstr "How many tries befor blocking the IP?"
+
+#: templates/options.php:42
+msgid "Ficará bloqueado durante o dia atual"
+msgstr "Will stay blocked along the current day"
+
+#: templates/options.php:46 templates/options.php:75
+msgid "Salvar Alterações"
+msgstr "Save Changes"
+
+#: templates/options.php:57
+msgid "Configurações de Visual"
+msgstr "Visual Settings"
+
+#: templates/options.php:61
+msgid "Selecione a Cor da Fonte"
+msgstr "Select the font color"
+
+#: templates/options.php:65
+msgid "Selecione a Imagem de Fundo"
+msgstr "Select image Background"
+
+#: templates/options.php:71
+msgid "Aleatório <small>Muda a cada vez</small>"
+msgstr "Aleatory <small>Changes each time</small>"
+
+#: templates/options.php:97
+msgid "Dê uma Olhada!"
+msgstr "Take a Look!"
+
+#: templates/options.php:103
+msgid "Melhores Temas Wordpress"
+msgstr "Best Wordpress Themes"
+
+#: templates/options.php:127
+msgid "Melhor Autoresponder para Email Marketing"
+msgstr "Best Autoresponder for Email Marketing"
